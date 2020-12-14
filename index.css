@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.PDF {
+    width: 105mm;
+    height: 150mm;
+    display: inline-block;
+    border: 2px solid green;
+    margin: 16px;
+}
